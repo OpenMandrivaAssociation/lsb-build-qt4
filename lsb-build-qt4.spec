@@ -4,7 +4,7 @@
 Summary:	LSB Build environment qt package
 Name:		lsb-build-qt4
 Version:	3.1.1
-Release:	%mkrel 1
+Release:	%mkrel 3
 License:	LGPL
 Group:		Development/C++
 Source:		ftp://ftp.freestandards.org/pub/lsb/lsbdev/released-3.1.0/source/lsb-build-qt4-%{version}.tar.bz2
