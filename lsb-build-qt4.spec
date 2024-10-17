@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/C++
 Source:		ftp://ftp.freestandards.org/pub/lsb/lsbdev/released-3.1.0/source/lsb-build-qt4-%{version}.tar.bz2
 Source1:	ftp://ftp.trolltech.com/qt/source/qt-x11-opensource-src-%qtver.tar.bz2
-URL:            http://www.linuxbase.org/build
+URL:            https://www.linuxbase.org/build
 BuildRoot: 	%_tmppath/%name-%version-%release-root
 #AutoReqProv:	no
 BuildRequires:	chrpath
