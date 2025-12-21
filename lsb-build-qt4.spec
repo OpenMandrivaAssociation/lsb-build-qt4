@@ -12,6 +12,11 @@ Source1:	ftp://ftp.trolltech.com/qt/source/qt-x11-opensource-src-%qtver.tar.bz2
 URL:            https://www.linuxbase.org/build
 BuildRoot: 	%_tmppath/%name-%version-%release-root
 #AutoReqProv:	no
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	chrpath
 
 %description
